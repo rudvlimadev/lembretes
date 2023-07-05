@@ -6,3 +6,6 @@ Um repositório para salvar lembretes e anotações dos projetos de desenvolvime
    :> gh -- version
    :> gh auth login
 - seguir todo o fluxo de autenticação no browser e pronto
+
+
+Alteração Feita no Visual Code
